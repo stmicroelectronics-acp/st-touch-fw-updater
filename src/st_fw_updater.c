@@ -48,7 +48,7 @@
 
 #define FW_UPDATE_MAX_RETRY     3
 
-#define VERSION 1.05
+#define VERSION 1.00
 
 #define EAUTOTUNE 1
 #define EFWUPDATE 2
